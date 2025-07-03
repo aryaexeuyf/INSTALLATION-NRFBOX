@@ -9,7 +9,7 @@ Firmware ini dirancang khusus untuk melakukan scanning dan jamming perangkat **n
 ## 📦 Download Firmware
 
 🔽 Klik untuk langsung download file `.bin`:  
-👉 [Download Firmware v1.0](https://github.com/namaprojekmu/nrfbox/releases/download/v1.0/nrfbox_blujammer_esp32.bin)
+👉 [Download Firmware v1.0](./NRFBOX_MODIF.bin)
 
 ---
 

